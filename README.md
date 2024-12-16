@@ -7,6 +7,7 @@ Seu principal objetivo é a ruptura da ideia que a tecnologia na agropecuária s
 No país atual, a agropecuária apresenta grande desenvolvimento e alta tecnologia no campo, contando com a agricultura 4.0 e softwares que facilitam este trabalho. Em contrapartida, o pequeno produtor rural, sobrevivente da agricultura familiar é privado destes recursos.
 
 Isso acontece, devido à grande concentração latifundiária dos grandes produtores, assim, 41% das terras do país encontram-se na posse de 1% de todos os proprietários. Além disso, os mesmos são responsáveis por tomar as decisões que afetam a área como um todo, visando seu auto favorecimento na exportação de commodities, produtos que são produzidos com o intuito de suprir a necessidade de exportação do país.
+
 Sendo assim, os produtos que não são exportados, abastecem as casas brasileiras. Nesse sentido, dados do IBGE apontam que 70% dos alimentos colocados no prato de comida de cada brasileiro provém da agricultura familiar. 
 Mesmo assim, se ela encontra em uma posição submissa, onde programas governamentais como o Pronaf (Programa Nacional de Fortalecimento da Agricultura), não atendem todas as suas necessidades, mostrando-se ineficazes.
 
