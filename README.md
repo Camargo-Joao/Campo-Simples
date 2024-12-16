@@ -12,6 +12,7 @@ Assim, promovendo a quebra desse pensamento que define a tecnologia como exclusi
 
 ## Como utilizar
 Siga o passo a passo da utilização acessando o vídeo: https://youtu.be/dpppZ9ySJSY?si=4ZrUfO0UZFqeLoDi
+
 Links para a instalação: 
 
 -> https://youtu.be/dpppZ9ySJSY?si=4ZrUfO0UZFqeLoDi - Flutter
