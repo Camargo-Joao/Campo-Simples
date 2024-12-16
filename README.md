@@ -1,4 +1,6 @@
 ## Sobre o Aplicativo
+Este foi meu projeto de TCC do ano de 2024 que ganhou o prêmio de desenvolvimento na 16° Mostra de novas ideias do colégio IDEIA - "Instituto de Desenvolvimento Educacional Inovando o Aprendizado"
+
 A Campo Simples é uma empresa desenvolvedora de sistemas que buscam levar a tecnologia para o pequeno produtor rural brasileiro. Assim, seus softwares apresentam uma interface simples, de fácil utilização e acesso, visando a praticidade e a velocidade para os usuários. 
 
 Seu principal objetivo é a ruptura da ideia que a tecnologia na agropecuária só deve ser levada em consideração quando se trata de um produtor de grande porte. Com isso, promove a valorização de seus clientes, uma vez que seus produtos não se tornam comodites; não são para exportação, sendo primordiais na realidade de cada cidadão do país.
@@ -17,7 +19,7 @@ Assim, promovendo a quebra desse pensamento que define a tecnologia como exclusi
 
 
 ## Como utilizar
-Os componentes disponibilizados fazem parte da pasta *lib*, ao criar seu app Flutter, coleos dentro da mesma pasta para que o programa funcione!
+Os componentes disponibilizados fazem parte da pasta *lib*, ao criar seu app Flutter, cole-os dentro da mesma pasta para que o programa funcione!
 
 Siga o passo a passo da utilização acessando o vídeo: https://youtu.be/dpppZ9ySJSY?si=4ZrUfO0UZFqeLoDi
 
