@@ -5,6 +5,7 @@ A Campo Simples é uma empresa desenvolvedora de sistemas que buscam levar a tec
 
 Seu principal objetivo é a ruptura da ideia que a tecnologia na agropecuária só deve ser levada em consideração quando se trata de um produtor de grande porte. Com isso, promove a valorização de seus clientes, uma vez que seus produtos não se tornam comodites; não são para exportação, sendo primordiais na realidade de cada cidadão do país.
 
+
 ## Como surgiu a ideia
 No país atual, a agropecuária apresenta grande desenvolvimento e alta tecnologia no campo, contando com a agricultura 4.0 e softwares que facilitam este trabalho. Em contrapartida, o pequeno produtor rural, sobrevivente da agricultura familiar é privado destes recursos.
 
@@ -16,6 +17,7 @@ Mesmo assim, se ela encontra em uma posição submissa, onde programas govername
 Sob essa lógica, a Campo Simples se coloca comprometida na intenção de levar este meio tecnológico ao pequeno produtor, por meio de um aplicativo que o auxilie em fatores fundamentais para o funcionamento de seu agronegócio, desde a compra de insumos à mediação de relações comerciais entre produtores e profissionais da área agronômica.
 
 Assim, promovendo a quebra desse pensamento que define a tecnologia como exclusiva e monopolizada no grande produtor rural, garantindo a valorização e mudança do estigma atribuído a agricultura familiar.
+
 
 
 ## Como utilizar
@@ -30,6 +32,7 @@ Flutter -> https://youtu.be/dpppZ9ySJSY?si=4ZrUfO0UZFqeLoDi -
 Android Studio -> https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiAvP-6BhDyARIsAJ3uv7ZYxJPaNVfYZEa8k8V-25F7G0BJoRWxqWeokvDvqN6Izl7XnalwECEaAlrfEALw_wcB&gclsrc=aw.ds&hl=pt-br - 
 
 Git -> https://git-scm.com/downloads -
+
 
 
 ## Integração com o Firebase
