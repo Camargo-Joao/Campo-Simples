@@ -27,11 +27,14 @@ Siga o passo a passo da utilização acessando o vídeo: https://youtu.be/dpppZ9
 
 Links para a instalação: 
 
-Flutter -> https://youtu.be/dpppZ9ySJSY?si=4ZrUfO0UZFqeLoDi - 
+Flutter 
+- https://youtu.be/dpppZ9ySJSY?si=4ZrUfO0UZFqeLoDi - 
 
-Android Studio -> https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiAvP-6BhDyARIsAJ3uv7ZYxJPaNVfYZEa8k8V-25F7G0BJoRWxqWeokvDvqN6Izl7XnalwECEaAlrfEALw_wcB&gclsrc=aw.ds&hl=pt-br - 
+Android Studio 
+- https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiAvP-6BhDyARIsAJ3uv7ZYxJPaNVfYZEa8k8V-25F7G0BJoRWxqWeokvDvqN6Izl7XnalwECEaAlrfEALw_wcB&gclsrc=aw.ds&hl=pt-br - 
 
-Git -> https://git-scm.com/downloads -
+Git 
+- https://git-scm.com/downloads -
 
 
 
