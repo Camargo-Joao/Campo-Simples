@@ -1,4 +1,8 @@
 # Campo Simples
+<div>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</div>
 
 ## Sobre o Aplicativo
 Este foi meu projeto de TCC do ano de 2024 que ganhou o prêmio de desenvolvimento na 16° Mostra de novas ideias do colégio IDEIA - "Instituto de Desenvolvimento Educacional Inovando o Aprendizado"
